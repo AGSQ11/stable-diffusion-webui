@@ -1,4 +1,4 @@
-# Stable Diffusion web UI
+# Stable Diffusion web UI with AMD ROCm for Linux
 A browser interface based on Gradio library for Stable Diffusion.
 
 ![](screenshot.png)
