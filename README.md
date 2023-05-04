@@ -1,4 +1,10 @@
 # Stable Diffusion web UI with AMD ROCm for Linux
+
+-----
+ATTENTION!!!
+WINDOWS IS NOT SUPPORTED. IT WILL CRASH ON INSTALLATION!
+-----
+
 A browser interface based on Gradio library for Stable Diffusion.
 
 ![](screenshot.png)
